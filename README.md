@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Million Fekadu Tekele! 🚀
 
-![Profile Banner](https://source.unsplash.com/1600x500/?technology,coding)
+
 
 💻 **Software Engineer | Full-Stack Developer | Lecturer**  
 🎓 **MSc in Computer Science |**  
